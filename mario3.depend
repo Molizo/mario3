@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496038075 source:c:\users\mihneavisoiu\desktop\mario3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
